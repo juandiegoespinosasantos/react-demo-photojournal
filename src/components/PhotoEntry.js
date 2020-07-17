@@ -4,7 +4,7 @@ import './main.css';
 class PhotoEntry extends React.Component {
 
     render() {
-        const image_path = "../imgs/" + this.props.src;
+        const image_path = "imgs/" + this.props.src;
 
         return (
             <div className="photo-entry-block">

@@ -4,7 +4,7 @@ import './main.css';
 function BannerImage() {
     return (
         <div>
-            <img className="banner" src="../imgs/banner.jpg" alt="https://www.pexels.com/photo/stranger-things-2-sign-in-city-at-night-1089194/" />
+            <img className="banner" src="imgs/banner.jpg" alt="https://www.pexels.com/photo/stranger-things-2-sign-in-city-at-night-1089194/" />
         </div>
     );
 }
